@@ -1,0 +1,9 @@
+The "DAVIS_DATASET_2016" was used
+
+Benchmark Dataset and Evaluation Methodology for Video Object Segmentation
+F. Perazzi, J. Pont-Tuset, B. McWilliams, L. Van Gool, M. Gross, and A. Sorkine-Hornung 
+Computer Vision and Pattern Recognition (CVPR) 2016
+
+https://graphics.ethz.ch/Downloads/Data/Davis/DAVIS-data.zip
+
+Extract the zip file here.
